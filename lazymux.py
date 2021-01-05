@@ -1,11 +1,4 @@
-## lazymux.py - Lazymux v4.0
-##
-import os, sys
-import readline
-from time import sleep as timeout
-from core.lzmcore import *
-
-def main():
+## lazymux.py - La
 	banner()
 
 print("  
